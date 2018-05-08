@@ -1,0 +1,44 @@
+# Intellij auto generate files
+.idea/
+*.iml
+out/
+gen/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath/
+.recommenders/
+.project/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/
+
+# Gradle files
+.gradle/
+build/
+
+# Mac
+*~
+.DS_Store
+
+# Log files
+*.log
+*.classpath
+*.project
